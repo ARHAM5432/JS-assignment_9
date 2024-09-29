@@ -1,4 +1,5 @@
-var nums = [1, 2, 5, 6, 7, 8, 9];
+// Questions 🧨
+var nums = [1, 2, 3, 4, 6, 9];
 var mNum = [];
 
 var min = nums[0];
